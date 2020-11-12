@@ -1,1 +1,6 @@
 flask
+pandas
+pylint
+wikipedia
+google-cloud
+simplejson
